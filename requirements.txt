@@ -1,1 +1,1 @@
-quail
+git+git://github.com/ContextLab/quail.git
